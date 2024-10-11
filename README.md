@@ -1,2 +1,4 @@
+[Iceberg](./Assets/Iceberg.png)
 # Iceberg
-Project Documentation for Iceberg - a Cardano onchain data analytics plaform
+
+A Cardano onchain data analytics plaform
